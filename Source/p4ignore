@@ -1,0 +1,12 @@
+Saved/
+Intermediate/
+DerivedDataCache/
+FileOpenOrder/
+obj/
+Binaries/
+Build/
+*.pdb
+*-Debug.*
+*.generated.h*
+.vs/
+.idea/
